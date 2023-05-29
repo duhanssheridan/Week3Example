@@ -15,7 +15,10 @@ public class Week3 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.printlin("duhan 1st")
+        System.out.println("duhan 1st");
+        System.out.println("sachin duhan 1st project");
+        
+       
     }
     
 }
