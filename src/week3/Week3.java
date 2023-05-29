@@ -17,7 +17,7 @@ public class Week3 {
         // TODO code application logic here
         System.out.println("duhan 1st");
         System.out.println("sachin duhan 1st project");
-        
+           System.out.println("PULL OPERATIONS");
        
     }
     
